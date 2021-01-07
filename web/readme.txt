@@ -1,0 +1,1 @@
+Upload to azure storage account's container "$web" and use storage account's static website to bulid . See "pic1.jpg" .
